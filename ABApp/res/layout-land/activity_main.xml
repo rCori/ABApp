@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background= "#ff0000ff"
+    android:background= "#050002"
     android:orientation="horizontal" >
 
 <ImageView
@@ -26,7 +26,9 @@ android:id="@+id/imageView1"
 	    <TableRow
 	        android:id="@+id/tableRow1"
 	        android:layout_height="wrap_content"
-	        android:layout_width="match_parent">
+	        android:layout_width="match_parent"
+	        android:layout_gravity="center_horizontal"
+	        android:gravity="center_horizontal" >>
 			<Button
 	            android:id="@+id/button1"
 	            android:background="@drawable/roundedbutton"
@@ -34,6 +36,7 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 1" />
 	
 	        <Button
@@ -43,6 +46,7 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 2" />
 	
 	        <Button
@@ -52,12 +56,15 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 3" />
 	    </TableRow>
 	    <TableRow
 	        android:id="@+id/tableRow2"
 	        android:layout_height="wrap_content"
-	        android:layout_width="match_parent">
+	        android:layout_width="match_parent"
+	        android:layout_gravity="center_horizontal"
+	        android:gravity="center_horizontal" >
 	        <Button
 	            android:id="@+id/button4"
 	            android:background="@drawable/roundedbutton"
@@ -65,6 +72,7 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 4" />
 	
 	        <Button
@@ -74,6 +82,7 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 5" />
 	
 	
@@ -84,12 +93,15 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 6" />
 	    </TableRow>
 	    <TableRow
 	        android:layout_height="wrap_content"
 	        android:id="@+id/tableRow3"
-	        android:layout_width="match_parent">
+	        android:layout_width="match_parent"
+	        android:layout_gravity="center_horizontal"
+	        android:gravity="center_horizontal">
 			<Button
 	            android:id="@+id/button7"
 	            android:background="@drawable/roundedbutton"
@@ -97,6 +109,7 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 7" />
 	
 	        <Button
@@ -106,6 +119,7 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 8" />
 	
 	
@@ -116,12 +130,15 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 9" />
 	    </TableRow>
 	    <TableRow
 	        android:layout_height="wrap_content"
 	        android:id="@+id/tableRow4"
-	        android:layout_width="match_parent">
+	        android:layout_width="match_parent"
+	        android:layout_gravity="center_horizontal"
+	        android:gravity="center_horizontal">
 	        <Button
 	            android:id="@+id/button10"
 	            android:background="@drawable/roundedbutton"
@@ -129,6 +146,7 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 10" />
 	
 	        <Button
@@ -138,6 +156,7 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 11" />
 	        
 	         <Button
@@ -147,12 +166,15 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 12" />
 	    </TableRow>
 	    <TableRow
 	        android:id="@+id/tableRow5"
 	        android:layout_height="wrap_content"
-	        android:layout_width="match_parent">
+	        android:layout_width="match_parent"
+	        android:layout_gravity="center_horizontal"
+	        android:gravity="center_horizontal">
 	         <Button
 	            android:id="@+id/button13"
 	            android:background="@drawable/roundedbutton"
@@ -160,6 +182,7 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 13" />
 	                        
 	         <Button
@@ -169,6 +192,7 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 14" />
 	                         
 	         <Button
@@ -178,12 +202,15 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 15" />
 	    </TableRow>
 		<TableRow
 	        android:id="@+id/tableRow6"
 	        android:layout_height="wrap_content"
-	        android:layout_width="match_parent">
+	        android:layout_width="match_parent"
+	        android:layout_gravity="center_horizontal"
+	        android:gravity="center_horizontal">
 			<Button
 	            android:id="@+id/button16"
 	            android:background="@drawable/roundedbutton"
@@ -191,6 +218,7 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 16" />
 	                        
 	                         
@@ -201,6 +229,7 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 17" />
 	                        
 	                         
@@ -211,12 +240,15 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 18" />
 		</TableRow>
 		<TableRow
 	        android:id="@+id/tableRow7"
 	        android:layout_height="wrap_content"
-	        android:layout_width="match_parent">
+	        android:layout_width="match_parent"
+	        android:layout_gravity="center_horizontal"
+	        android:gravity="center_horizontal">
 			<Button
 	            android:id="@+id/button19"
 	            android:background="@drawable/roundedbutton"
@@ -224,6 +256,7 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 19" />
 	                         
 	         <Button
@@ -233,6 +266,7 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 20" />
 	                        
 	                         
@@ -243,12 +277,15 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 21" />
 	    </TableRow>
 		<TableRow
 	        android:layout_height="wrap_content"
 	        android:id="@+id/tableRow8"
-	        android:layout_width="match_parent">
+	        android:layout_width="match_parent"
+	        android:layout_gravity="center_horizontal"
+	        android:gravity="center_horizontal">
 			<Button
 	            android:id="@+id/button22"
 	            android:background="@drawable/roundedbutton"
@@ -256,6 +293,7 @@ android:id="@+id/imageView1"
 	            android:layout_height="wrap_content"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
+	            android:typeface="sans"
 	            android:text="Sound 22" />
 		</TableRow>
 	</TableLayout>
