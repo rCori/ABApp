@@ -1,6 +1,6 @@
-package com.example.abapp;
+package com.abapp.apk;
 
-import com.example.abapp.R;
+import com.abapp.apk.R;
 
 import android.media.AudioManager;
 import android.media.MediaPlayer;
