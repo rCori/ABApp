@@ -21,17 +21,18 @@ android:id="@+id/imageView1"
 	<TableLayout
 	    android:layout_width="match_parent"
 	    android:layout_height="wrap_content"
-	    android:shrinkColumns="*"
-	    android:stretchColumns="*">
+	    android:shrinkColumns="*">
 	    <TableRow
 	        android:id="@+id/tableRow1"
 	        android:layout_height="wrap_content"
-	        android:layout_width="match_parent">
+	        android:layout_gravity="center_horizontal"
+	        android:layout_width="wrap_content">
 			<Button
 	            android:id="@+id/button1"
 	            android:background="@drawable/roundedbutton"
 	            android:layout_width="wrap_content"
 	            android:layout_height="wrap_content"
+	            android:gravity="center"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:text="Sound 1" />
@@ -41,6 +42,7 @@ android:id="@+id/imageView1"
 	            android:background="@drawable/roundedbutton"
 	            android:layout_width="wrap_content"
 	            android:layout_height="wrap_content"
+	            android:gravity="center"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:text="Sound 2" />
@@ -50,6 +52,7 @@ android:id="@+id/imageView1"
 	            android:background="@drawable/roundedbutton"
 	            android:layout_width="wrap_content"
 	            android:layout_height="wrap_content"
+	            android:gravity="center"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:text="Sound 3" />
@@ -57,7 +60,8 @@ android:id="@+id/imageView1"
 	    <TableRow
 	        android:id="@+id/tableRow2"
 	        android:layout_height="wrap_content"
-	        android:layout_width="match_parent">
+	        android:layout_gravity="center_horizontal"
+	        android:layout_width="wrap_content">
 	        <Button
 	            android:id="@+id/button4"
 	            android:background="@drawable/roundedbutton"
@@ -89,7 +93,8 @@ android:id="@+id/imageView1"
 	    <TableRow
 	        android:layout_height="wrap_content"
 	        android:id="@+id/tableRow3"
-	        android:layout_width="match_parent">
+	        android:layout_gravity="center_horizontal"
+	        android:layout_width="wrap_content">
 			<Button
 	            android:id="@+id/button7"
 	            android:background="@drawable/roundedbutton"
@@ -121,7 +126,8 @@ android:id="@+id/imageView1"
 	    <TableRow
 	        android:layout_height="wrap_content"
 	        android:id="@+id/tableRow4"
-	        android:layout_width="match_parent">
+	        android:layout_gravity="center_horizontal"
+	        android:layout_width="wrap_content">
 	        <Button
 	            android:id="@+id/button10"
 	            android:background="@drawable/roundedbutton"
@@ -152,7 +158,8 @@ android:id="@+id/imageView1"
 	    <TableRow
 	        android:id="@+id/tableRow5"
 	        android:layout_height="wrap_content"
-	        android:layout_width="match_parent">
+	        android:layout_gravity="center_horizontal"
+	        android:layout_width="wrap_content">
 	         <Button
 	            android:id="@+id/button13"
 	            android:background="@drawable/roundedbutton"
@@ -183,7 +190,8 @@ android:id="@+id/imageView1"
 		<TableRow
 	        android:id="@+id/tableRow6"
 	        android:layout_height="wrap_content"
-	        android:layout_width="match_parent">
+	        android:layout_gravity="center_horizontal"
+	        android:layout_width="wrap_content">
 			<Button
 	            android:id="@+id/button16"
 	            android:background="@drawable/roundedbutton"
@@ -216,7 +224,8 @@ android:id="@+id/imageView1"
 		<TableRow
 	        android:id="@+id/tableRow7"
 	        android:layout_height="wrap_content"
-	        android:layout_width="match_parent">
+	        android:layout_gravity="center_horizontal"
+	        android:layout_width="wrap_content">
 			<Button
 	            android:id="@+id/button19"
 	            android:background="@drawable/roundedbutton"
@@ -248,7 +257,8 @@ android:id="@+id/imageView1"
 		<TableRow
 	        android:layout_height="wrap_content"
 	        android:id="@+id/tableRow8"
-	        android:layout_width="match_parent">
+	        android:layout_gravity="center_horizontal"
+	        android:layout_width="wrap_content">
 			<Button
 	            android:id="@+id/button22"
 	            android:background="@drawable/roundedbutton"
