@@ -18,14 +18,14 @@
     <string name="slickblack">Slick Black</string>
     <string name="acetown">Acetown</string>
     <string name="shouldCopy">Copy</string>
-    <string name="GoW">Tears of War</string>
-    <string name="geom">Not doin\' Geometry</string>
+    <string name="GoW">Tears</string>
+    <string name="geom">Geometry</string>
     <string name="itNew">New</string>
-    <string name="notBallin">Shit Aint Ballin</string>
+    <string name="notBallin">Aint Ballin</string>
     <string name="migra">La Migra</string>
-    <string name="wario">WarioWare</string>
-    <string name="smash">Smash Bros</string>
-    <string name="toad">Can\'t Even Eat</string>
-    <string name="figment">Imaginitnation</string>
-	<string name="wrong">Guess Who\'s Wrong</string>
+    <string name="wario">Wario Ware</string>
+    <string name="smash">Smash</string>
+    <string name="toad">Can\'t Eat</string>
+    <string name="figment">Figment</string>
+	<string name="wrong">Guess Who</string>
 </resources>
