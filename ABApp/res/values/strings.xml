@@ -6,7 +6,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="abap">ABAP</string>
     <string name="ballin">Ballin</string>
-    <string name="three">sound 3</string>
+    <string name="three">Sound 3</string>
     <string name="supBitches">Sup Bitches</string>
     <string name="cwiz">C Wizzy</string>
     <string name="cDaddy">Chad Daddy</string>
@@ -14,7 +14,11 @@
     <string name="seven">Sound 7</string>
     <string name="dildo">Dehldoe</string>
     <string name="link_sound">HA HA HA</string>
-    <string name="shouldCopy">Get Good Games</string>
+    <string name="pstripple">PS Tripple</string>
+    <string name="slickblack">Slick Black</string>
+    <string name="acetown">Acetown</string>
+    <string name="shouldCopy">Copy</string>
+    <string name="GoW">Tears of War</string>
     <string name="geom">Not doin\' Geometry</string>
     <string name="itNew">New</string>
     <string name="notBallin">Shit Aint Ballin</string>
@@ -22,6 +26,6 @@
     <string name="wario">WarioWare</string>
     <string name="smash">Smash Bros</string>
     <string name="toad">Can\'t Even Eat</string>
-    <string name="Figment">Imaginitnation</string>
+    <string name="figment">Imaginitnation</string>
 	<string name="wrong">Guess Who\'s Wrong</string>
 </resources>

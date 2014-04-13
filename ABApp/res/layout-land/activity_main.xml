@@ -110,7 +110,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 7" />
+	            android:text="@string/seven" />
 	
 	        <Button
 	            android:id="@+id/button8"
@@ -120,7 +120,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 8" />
+	            android:text="@string/bPapi" />
 	
 	
 	        <Button
@@ -131,7 +131,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 9" />
+	            android:text="@string/dildo" />
 	    </TableRow>
 	    <TableRow
 	        android:layout_height="wrap_content"
@@ -147,7 +147,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 10" />
+	            android:text="@string/link_sound" />
 	
 	        <Button
 	            android:id="@+id/button11"
@@ -157,7 +157,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 11" />
+	            android:text="@string/pstripple" />
 	        
 	         <Button
 	            android:id="@+id/button12"
@@ -167,7 +167,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 12" />
+	            android:text="@string/slickblack" />
 	    </TableRow>
 	    <TableRow
 	        android:id="@+id/tableRow5"
@@ -183,7 +183,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 13" />
+	            android:text="@string/acetown" />
 	                        
 	         <Button
 	            android:id="@+id/button14"
@@ -193,7 +193,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 14" />
+	            android:text="@string/shouldCopy" />
 	                         
 	         <Button
 	            android:id="@+id/button15"
@@ -203,7 +203,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 15" />
+	            android:text="@string/GoW" />
 	    </TableRow>
 		<TableRow
 	        android:id="@+id/tableRow6"
@@ -219,7 +219,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 16" />
+	            android:text="@string/geom" />
 	                        
 	                         
 	         <Button
@@ -230,7 +230,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 17" />
+	            android:text="@string/itNew" />
 	                        
 	                         
 	         <Button
@@ -241,7 +241,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 18" />
+	            android:text="@string/notBallin" />
 		</TableRow>
 		<TableRow
 	        android:id="@+id/tableRow7"
@@ -257,7 +257,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 19" />
+	            android:text="@string/migra" />
 	                         
 	         <Button
 	            android:id="@+id/button20"
@@ -267,7 +267,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 20" />
+	            android:text="@string/wario" />
 	                        
 	                         
 	         <Button
@@ -278,7 +278,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 21" />
+	            android:text="@string/smash" />
 	    </TableRow>
 		<TableRow
 	        android:layout_height="wrap_content"
@@ -294,7 +294,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 22" />
+	            android:text="@string/toad" />
 			<Button
 	            android:id="@+id/button23"
 	            android:background="@drawable/roundedbutton"
@@ -303,7 +303,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 23" />
+	            android:text="@string/figment" />
 			<Button
 	            android:id="@+id/button24"
 	            android:background="@drawable/roundedbutton"
@@ -312,7 +312,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 24" />
+	            android:text="@string/wrong" />
 		</TableRow>
 	</TableLayout>
 </ScrollView>
