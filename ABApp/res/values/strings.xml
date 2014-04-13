@@ -4,5 +4,24 @@
     <string name="app_name">ABApp</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+    <string name="abap">ABAP</string>
+    <string name="ballin">Ballin</string>
+    <string name="three">sound 3</string>
+    <string name="supBitches">Sup Bitches</string>
+    <string name="cwiz">C Wizzy</string>
+    <string name="cDaddy">Chad Daddy</string>
+    <string name="bPapi">Big Papi</string>
+    <string name="seven">Sound 7</string>
+    <string name="dildo">Dehldoe</string>
+    <string name="link_sound">HA HA HA</string>
+    <string name="shouldCopy">Get Good Games</string>
+    <string name="geom">Not doin\' Geometry</string>
+    <string name="itNew">New</string>
+    <string name="notBallin">Shit Aint Ballin</string>
+    <string name="migra">La Migra</string>
+    <string name="wario">WarioWare</string>
+    <string name="smash">Smash Bros</string>
+    <string name="toad">Can\'t Even Eat</string>
+    <string name="Figment">Imaginitnation</string>
+	<string name="wrong">Guess Who\'s Wrong</string>
 </resources>

@@ -15,7 +15,7 @@ import android.widget.Button;
 public class MainActivity extends Activity {
 
 	private MediaPlayer mp;
-	final static int numberOfButtons = 22;
+	final static int numberOfButtons = 24;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -103,6 +103,12 @@ public class MainActivity extends Activity {
 				case R.id.button22:
 					resID = R.raw.anyoucanteveneatthatbitch;
 				break;
+				case R.id.button23:
+					resID = R.raw.figmint;
+				break;
+				case R.id.button24:
+					resID = R.raw.guess;
+				break;
 				default:
 					resID = R.raw.abap;
 				break;
@@ -112,7 +118,6 @@ public class MainActivity extends Activity {
 
                 @Override
                 public void onCompletion(MediaPlayer mp) {
-                    // TODO Auto-generated method stub
                     mp.release();
                     mp = null;
                 }

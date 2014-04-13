@@ -37,7 +37,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 1" />
+	            android:text="@string/abap" />
 	
 	        <Button
 	            android:id="@+id/button2"
@@ -47,7 +47,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 2" />
+	            android:text="@string/ballin" />
 	
 	        <Button
 	            android:id="@+id/button3"
@@ -57,7 +57,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 3" />
+	            android:text="@string/three" />
 	    </TableRow>
 	    <TableRow
 	        android:id="@+id/tableRow2"
@@ -73,7 +73,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 4" />
+	            android:text="@string/supBitches" />
 	
 	        <Button
 	            android:id="@+id/button5"
@@ -83,7 +83,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 5" />
+	            android:text="@string/cwiz" />
 	
 	
 	        <Button
@@ -94,7 +94,7 @@ android:id="@+id/imageView1"
 	            android:alpha="0.5"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
-	            android:text="Sound 6" />
+	            android:text="@string/cDaddy" />
 	    </TableRow>
 	    <TableRow
 	        android:layout_height="wrap_content"
@@ -295,6 +295,24 @@ android:id="@+id/imageView1"
 	            android:layout_margin="10dp"
 	            android:typeface="sans"
 	            android:text="Sound 22" />
+			<Button
+	            android:id="@+id/button23"
+	            android:background="@drawable/roundedbutton"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:alpha="0.5"
+	            android:layout_margin="10dp"
+	            android:typeface="sans"
+	            android:text="Sound 23" />
+			<Button
+	            android:id="@+id/button24"
+	            android:background="@drawable/roundedbutton"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:alpha="0.5"
+	            android:layout_margin="10dp"
+	            android:typeface="sans"
+	            android:text="Sound 24" />
 		</TableRow>
 	</TableLayout>
 </ScrollView>
